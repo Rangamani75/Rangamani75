@@ -100,6 +100,16 @@ A full-stack e-commerce application with role-based authentication featuring:
 - **Dynamic UI** built with vanilla JavaScript
 
 **Tech Stack**: HTML, CSS, JavaScript, Firebase, Firestore
+### Farm to Kitchen — Farmer–Consumer Marketplace
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge)](https://farm-to-kitchen.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Mahesh7s/FarmtoKitchen_Project)
+
+- **Built a marketplace enabling farmers to sell produce directly to consumers using React, Node.js, Express, and MongoDB (Firebase/Firestore used where applicable).
+- **Integrated authentication, CRUD operations, and order management for both farmers and consumers.
+- **Designed a responsive UI with reusable React components for smooth navigation.
+- **Optimized backend APIs and database queries for improved performance and scalability.
+
+**Tech Stack**: React · Node.js · Express · MongoDB · Tailwind CSS
 
 
 
