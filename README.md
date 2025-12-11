@@ -101,19 +101,7 @@ A full-stack e-commerce application with role-based authentication featuring:
 
 **Tech Stack**: HTML, CSS, JavaScript, Firebase, Firestore
 
-### Meme Hub – Meme Sharing Platform
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge)](https://silly-melba-9a3820.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/kireeti407/memeHUB)
 
-A responsive front-end application for meme enthusiasts featuring:
-- **Clean, engaging UI** with seamless navigation
-- **RESTful API integration** for dynamic content
-- **Modular JavaScript** architecture
-- **Optimized user experience** across devices
-
-**Tech Stack**: HTML, CSS, JavaScript, RESTful APIs
-
----
 
 ## 📊 GitHub Analytics
 
